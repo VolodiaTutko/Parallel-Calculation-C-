@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ParalellCalculationLab2\bin\Debug\net7.0\ParalellCalculationLab2.exe
+C:\Users\HP\source\repos\ParalellCalculationLab2\bin\Debug\net7.0\ParalellCalculationLab2.deps.json
+C:\Users\HP\source\repos\ParalellCalculationLab2\bin\Debug\net7.0\ParalellCalculationLab2.runtimeconfig.json
+C:\Users\HP\source\repos\ParalellCalculationLab2\bin\Debug\net7.0\ParalellCalculationLab2.dll
+C:\Users\HP\source\repos\ParalellCalculationLab2\bin\Debug\net7.0\ParalellCalculationLab2.pdb
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.AssemblyInfo.cs
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.dll
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\refint\ParalellCalculationLab2.dll
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.pdb
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ParalellCalculationLab2.genruntimeconfig.cache
+C:\Users\HP\source\repos\ParalellCalculationLab2\obj\Debug\net7.0\ref\ParalellCalculationLab2.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Algorithm Dijkstra\bin\Debug\net7.0\Algorithm Dijkstra.exe
+C:\Users\HP\source\repos\Algorithm Dijkstra\bin\Debug\net7.0\Algorithm Dijkstra.deps.json
+C:\Users\HP\source\repos\Algorithm Dijkstra\bin\Debug\net7.0\Algorithm Dijkstra.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm Dijkstra\bin\Debug\net7.0\Algorithm Dijkstra.dll
+C:\Users\HP\source\repos\Algorithm Dijkstra\bin\Debug\net7.0\Algorithm Dijkstra.pdb
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.dll
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\refint\Algorithm Dijkstra.dll
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.pdb
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\Algorithm Dijkstra.genruntimeconfig.cache
+C:\Users\HP\source\repos\Algorithm Dijkstra\obj\Debug\net7.0\ref\Algorithm Dijkstra.dll

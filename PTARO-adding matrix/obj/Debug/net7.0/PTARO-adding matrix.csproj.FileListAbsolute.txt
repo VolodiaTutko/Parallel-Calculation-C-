@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\PTARO-adding matrix.exe
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\PTARO-adding matrix.deps.json
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\PTARO-adding matrix.runtimeconfig.json
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\PTARO-adding matrix.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\PTARO-adding matrix.pdb
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.AssemblyInfo.cs
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\refint\PTARO-adding matrix.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.pdb
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\PTARO-adding matrix.genruntimeconfig.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ref\PTARO-adding matrix.dll

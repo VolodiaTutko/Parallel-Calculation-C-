@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\ParalellCalculationLab1.exe
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\ParalellCalculationLab1.deps.json
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\ParalellCalculationLab1.runtimeconfig.json
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\ParalellCalculationLab1.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\bin\Debug\net7.0\ParalellCalculationLab1.pdb
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.AssemblyInfo.cs
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\refint\ParalellCalculationLab1.dll
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.pdb
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ParalellCalculationLab1.genruntimeconfig.cache
+C:\Users\HP\source\repos\PTARO-adding matrix\obj\Debug\net7.0\ref\ParalellCalculationLab1.dll

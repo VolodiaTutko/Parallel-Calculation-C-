@@ -1,0 +1,177 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Vlc.DotNet.Core/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Vlc.DotNet.Core.Interops": "3.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Vlc.DotNet.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Vlc.DotNet.Core.dll": {}
+        }
+      },
+      "Vlc.DotNet.Core.Interops/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Vlc.DotNet.Core.Interops.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Vlc.DotNet.Core.Interops.dll": {}
+        }
+      },
+      "Vlc.DotNet.Forms/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Vlc.DotNet.Core": "3.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Vlc.DotNet.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Vlc.DotNet.Forms.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Vlc.DotNet.Core/3.1.0": {
+      "sha512": "t9jinVlEEgS0PHyNeu+jGE06yKeqyQ4RG7Bpno1M1ghxAhogpc7rFkRg5/CMHINsZJw4nr88I3xrUecanlA5kA==",
+      "type": "package",
+      "path": "vlc.dotnet.core/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Vlc.DotNet.Core.dll",
+        "lib/net40/Vlc.DotNet.Core.dll",
+        "lib/net45/Vlc.DotNet.Core.dll",
+        "lib/netstandard1.3/Vlc.DotNet.Core.dll",
+        "lib/netstandard2.0/Vlc.DotNet.Core.dll",
+        "logo.png",
+        "vlc.dotnet.core.3.1.0.nupkg.sha512",
+        "vlc.dotnet.core.nuspec"
+      ]
+    },
+    "Vlc.DotNet.Core.Interops/3.1.0": {
+      "sha512": "22JkrxSBN9OVkxT3zMgwT67kUc+RQx35+NG5md9n9qM7vEI2EUEVqHeKiO8ssF7/mYi6Z8lJx4AgdWa5JAvONw==",
+      "type": "package",
+      "path": "vlc.dotnet.core.interops/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Vlc.DotNet.Core.Interops.dll",
+        "lib/net40/Vlc.DotNet.Core.Interops.dll",
+        "lib/net45/Vlc.DotNet.Core.Interops.dll",
+        "lib/netstandard1.3/Vlc.DotNet.Core.Interops.dll",
+        "lib/netstandard2.0/Vlc.DotNet.Core.Interops.dll",
+        "logo.png",
+        "vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+        "vlc.dotnet.core.interops.nuspec"
+      ]
+    },
+    "Vlc.DotNet.Forms/3.1.0": {
+      "sha512": "B40j4tmKKwLz4O+BfVv7t5Yeygq4nkSBNJXFr7VQfoVU3a4WLFSisR1FxOnBwM/soM2/BIJuNhICCIF+C5XHWA==",
+      "type": "package",
+      "path": "vlc.dotnet.forms/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Vlc.DotNet.Forms.dll",
+        "lib/net40/Vlc.DotNet.Forms.dll",
+        "lib/net45/Vlc.DotNet.Forms.dll",
+        "lib/netcoreapp3.0/Vlc.DotNet.Forms.dll",
+        "logo.png",
+        "vlc.dotnet.forms.3.1.0.nupkg.sha512",
+        "vlc.dotnet.forms.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Vlc.DotNet.Core >= 3.1.0",
+      "Vlc.DotNet.Core.Interops >= 3.1.0",
+      "Vlc.DotNet.Forms >= 3.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Lab4\\Lab4.csproj",
+      "projectName": "Lab4",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Lab4\\Lab4.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Lab4\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "Vlc.DotNet.Core": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          },
+          "Vlc.DotNet.Core.Interops": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          },
+          "Vlc.DotNet.Forms": {
+            "target": "Package",
+            "version": "[3.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

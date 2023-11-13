@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\Algorithm Floyda.exe
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\Algorithm Floyda.deps.json
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\Algorithm Floyda.runtimeconfig.json
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\Algorithm Floyda.dll
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\Algorithm Floyda.pdb
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.AssemblyInfo.cs
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.dll
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\refint\Algorithm Floyda.dll
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.pdb
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.genruntimeconfig.cache
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\ref\Algorithm Floyda.dll
+C:\Users\HP\source\repos\Algorithm Floyda\bin\Debug\net7.0\MPI.dll
+C:\Users\HP\source\repos\Algorithm Floyda\obj\Debug\net7.0\Algorithm Floyda.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Prima\bin\Debug\net7.0\Prima.exe
+C:\Users\HP\source\repos\Prima\bin\Debug\net7.0\Prima.deps.json
+C:\Users\HP\source\repos\Prima\bin\Debug\net7.0\Prima.runtimeconfig.json
+C:\Users\HP\source\repos\Prima\bin\Debug\net7.0\Prima.dll
+C:\Users\HP\source\repos\Prima\bin\Debug\net7.0\Prima.pdb
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.AssemblyInfo.cs
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.dll
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\refint\Prima.dll
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.pdb
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\Prima.genruntimeconfig.cache
+C:\Users\HP\source\repos\Prima\obj\Debug\net7.0\ref\Prima.dll
